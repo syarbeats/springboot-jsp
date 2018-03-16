@@ -9,15 +9,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="/resources/img/favicon.ico">
+    <link rel="icon" href="/springboot-jsp/resources/img/favicon.ico">
 
     <title>Signin Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
+    <!-- for deploying to apache tomcat use this one below -->
+    <link href="/springboot-jsp/resources/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- for using embbeded apache tomcat use this one below 
     <link href="/resources/css/bootstrap.min.css" rel="stylesheet">
+    -->
 
     <!-- Custom styles for this template -->
+    <!-- for deploying to apache tomcat use this one below -->
+    <link href="/springboot-jsp/resources/css/signin.css" rel="stylesheet">
+    
+    <!-- for using embbeded apache tomcat use this one below 
     <link href="/resources/css/signin.css" rel="stylesheet">
+    -->
+    
   </head>
 
   <body class="text-center">

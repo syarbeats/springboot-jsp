@@ -5,8 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Spring Boot</title>
-<link rel="stylesheet" href="/resources/css/style.css">
-<script type="text/javascript" src="/resources/js/app.js"></script>
+<link rel="stylesheet" href="/springboot-jsp/resources/css/style.css">
+<script type="text/javascript" src="/springboot-jsp/resources/js/app.js"></script>
 </head>
 <body>
   <h1>Spring Boot - MVC web application example</h1>
